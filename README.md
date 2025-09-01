@@ -33,8 +33,7 @@ The dataset includes IPL **matches** details from 2008–2024.
 ✔️ Matches per season & overall trends
 ✔️ Toss decisions and win percentage impact
 ✔️ Highest & lowest team totals
-✔️ Top batsmen (runs, strike rates, averages)
-✔️ Top bowlers (wickets, economy, strike rate)
+✔️ Top batsmen 
 ✔️ Venue-wise winning patterns
 ✔️ Super overs, DLS-affected & rain-interrupted matches
 ✔️ Extras distribution (wides, no-balls, byes)
@@ -42,7 +41,6 @@ The dataset includes IPL **matches** details from 2008–2024.
 ## 📊 Sample Visualizations
 
 * Season-wise match distribution
-* Top run-scorers and wicket-takers
 * Team winning consistency
 * Toss decision vs result analysis
 * Venue-based success rate
